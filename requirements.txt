@@ -1,0 +1,11 @@
+-e git+https://github.com/facebookresearch/audiocraft.git@f83babff6b5e97f75562127c4cc8122229c8f099#egg=audiocraft
+phonemizer==3.2.1
+nltk>=3.8.1
+openai-whisper>=20231117
+spaces
+aeneas==1.7.3.0
+whisperx==3.1.1
+huggingface-hub==0.22.2
+num2words==0.5.13
+#  pip install --force-reinstall 'huggingface-hub>=0.23.2,<1.0'
+
