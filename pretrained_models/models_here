@@ -1,0 +1,7 @@
+330M_TTSEnhanced.pth
+830M_TTSEnhanced.pth
+encodec_4cb2048_giga.th
+giga330M.pth
+gigaHalfLibri330M_TTSEnhanced_max16s.pth
+medium.en.pt
+model.safetensors
